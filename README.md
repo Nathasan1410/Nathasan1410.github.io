@@ -1,5 +1,5 @@
-# Nathanael Santoso
+# Swara Redirect
 
-Personal GitHub Pages site for selected projects, currently highlighting Swara.
+Temporary GitHub Pages entry point for Swara.
 
-Live site: https://nathanaelsantoso.me
+Main writeup: https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/Swara
